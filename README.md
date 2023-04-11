@@ -12,6 +12,7 @@ Provision AWS Infrastructure using Terraform
 
 
 Commands to run terraform:
+```
  
  $ cd terraform/main.tf
  
@@ -21,7 +22,7 @@ Commands to run terraform:
  
  $ terraform apply
  
- 
+ ```
  
  
 ![Screenshot from 2023-04-11 13-57-40](https://user-images.githubusercontent.com/58079776/231155860-4f332d31-97c5-4812-bb4d-5686adfd254e.png)
