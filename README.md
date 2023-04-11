@@ -24,7 +24,7 @@ Commands to run terraform:
  
  
  
- ![sprint2](https://user-images.githubusercontent.com/58079776/231154863-7f743135-2ab3-490c-9c8b-87900b26ace3.jpeg)
+![Screenshot from 2023-04-11 13-57-40](https://user-images.githubusercontent.com/58079776/231155860-4f332d31-97c5-4812-bb4d-5686adfd254e.png)
 
 
 ![sprint1](https://user-images.githubusercontent.com/58079776/231155191-165c8c41-741c-487b-83f4-8a14f994ef72.jpeg)
